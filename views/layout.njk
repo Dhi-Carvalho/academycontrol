@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% block head %}
+        <meta charset="UTF-8">
+        <title>Gym Manger</title>
+        {% endblock %}
+        <link href="style.css" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <div class="menu">
+                <a href="/" class=active>Instructors</a>
+                <a href="/members">Members</a>
+            </div>
+            
+        </header>
+
+        {% block content %}{% endblock %}
+
+     </body>
+</html>
