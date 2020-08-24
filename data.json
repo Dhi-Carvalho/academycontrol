@@ -1,3 +1,22 @@
 {
-  "instructors": []
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://uol.com",
+      "name": "Gleyce",
+      "birth": 495590400000,
+      "gender": "F",
+      "services": "Fitness, Crossfit",
+      "created_at": 1597952930653
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://google.com",
+      "name": "Diogo Santana",
+      "birth": 503193600000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1598013243874
+    }
+  ]
 }
