@@ -30,8 +30,17 @@ Até o momento foram utilizadas as seguintes tecnologias:
 - **CSS3**
 - **JavaScript**
 - **Node.js**
+
+### 📦 Dependências Utilizadas:
+Até o momento foram utilizadas as seguintes dependências:
+
 - **Express**
 - **Nunjucks**
+- **Intl**
+- **Method-override**
+- **Browser-sync**
+- **Nodemon**
+- **Npm-run-all**
 
 ###  📝 <b>Licença:</b>
 
